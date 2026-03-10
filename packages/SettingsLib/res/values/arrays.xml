@@ -280,7 +280,7 @@
 
     <!-- Savitech Patch - START -->
     <!-- Titles for Bluetooth Audio Codec LHDC V3/V4 Playback Quality selection preference. [CHAR LIMIT=70] -->
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles" translatable="false" >
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles" >
         <item>BitRate(LOW1): 128kbps</item>
         <item>BitRate(LOW2): 192kbps</item>
         <item>BitRate(LOW3): 256kbps</item>
@@ -292,7 +292,7 @@
     </string-array>
 
     <!-- Summaries for Bluetooth Audio Codec LHDC V3/V4 Playback Quality selection preference. [CHAR LIMIT=70]-->
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries" translatable="false" >
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries" >
         <item>128 kbps</item>
         <item>192 kbps</item>
         <item>256 kbps</item>
@@ -304,7 +304,7 @@
     </string-array>
 
     <!-- Titles for Bluetooth Audio Codec LHDC V5 Playback Quality selection preference. [CHAR LIMIT=70] -->
-    <string-array name="bluetooth_a2dp_codec_lhdcv5_playback_quality_titles" translatable="false" >
+    <string-array name="bluetooth_a2dp_codec_lhdcv5_playback_quality_titles" >
         <item>BitRate(LOW0): 130kbps</item>
         <item>BitRate(LOW1): 160kbps</item>
         <item>BitRate(LOW2): 200kbps</item>
@@ -318,7 +318,7 @@
     </string-array>
 
     <!-- Summaries for Bluetooth Audio Codec LHDC V5 Playback Quality selection preference. [CHAR LIMIT=70]-->
-    <string-array name="bluetooth_a2dp_codec_lhdcv5_playback_quality_summaries" translatable="false" >
+    <string-array name="bluetooth_a2dp_codec_lhdcv5_playback_quality_summaries" >
         <item>130 kbps</item>
         <item>160 kbps</item>
         <item>200 kbps</item>
@@ -332,37 +332,37 @@
     </string-array>
 
     <!-- Titles for Bluetooth Audio Codec LHDC Low Latency selection preference. [CHAR LIMIT=70] -->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_latency_titles" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_latency_titles" >
         <item>Low Latency Mode Disable</item>
         <item>Low Latency Mode Enable</item>
     </string-array>
 
     <!-- Summaries for Bluetooth Audio Codec LHDC Latency selection preference. [CHAR LIMIT=70]-->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_latency_summaries" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_latency_summaries" >
         <item>Low Latency OFF</item>
         <item>Low Latency ON</item>
     </string-array>
 
     <!-- Titles for Bluetooth Audio Codec LHDC V5 Lossless selection preference. [CHAR LIMIT=70] -->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_titles" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_titles" >
         <item>OFF</item>
         <item>ON</item>
     </string-array>
 
     <!-- Summaries for Bluetooth Audio Codec LHDC V5 Lossless selection preference [CHAR LIMIT=70]-->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_summaries" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_summaries" >
         <item>LHDC Lossless OFF</item>
         <item>LHDC Lossless ON</item>
     </string-array>
 
     <!-- Titles for Bluetooth Audio Codec LHDC V5 Lossless Raw mode selection preference. [CHAR LIMIT=70] -->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_titles" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_titles" >
         <item>OFF</item>
         <item>ON</item>
     </string-array>
 
     <!-- Summaries for Bluetooth Audio Codec LHDC V5 Lossless Raw mode selection preference [CHAR LIMIT=70]-->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_summaries" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_summaries" >
         <item>LHDC Lossless Raw Mode OFF</item>
         <item>LHDC Lossless Raw Mode ON</item>
     </string-array>
